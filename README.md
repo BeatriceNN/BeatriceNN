@@ -4,3 +4,4 @@
 💁 Student Assistant to Chair of Mathematics-Scientific Computing
 💬 Knowledgeable in Machine learning, SQL for database querying and data analytics.
 
+![Static Badge](https://img.shields.io/badge/SQL-blue)
