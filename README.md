@@ -1,6 +1,6 @@
 ## Hii, Beatrice here 😝
 
-Data Analyst with hands-on experience building machine learning pipelines and business intelligence dashboards in real corporate environments. 
+Data Science student focused on data and operations analytics, with strengths in machine learning, Python, SQL and Power BI.
 
 **My Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
