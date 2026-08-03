@@ -1,4 +1,4 @@
-## Hii, Beatrice here 😝
+## Hii, I'm Beatrice 👋
 
 Data Science student focused on data and operations analytics, with strengths in machine learning, Python, SQL and Power BI.
 
