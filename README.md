@@ -14,7 +14,7 @@ I’m a Data Science student at KU Eichstätt-Ingolstadt, focused on data and op
 * **Additional interests:** Operations analytics, agentic workflows, data assimilation and AI automation
 
 ## Featured projects
-### [Telco Customer Churn Analysis](https://github.com/BeatriceNN/telco-churn-analysis))
+### [Telco Customer Churn Analysis](https://github.com/BeatriceNN/telco-churn-analysis)
 An end-to-end analysis of IBM Telco customer data, combining exploratory analysis, churn-risk segmentation, machine-learning classification and a Power BI dashboard.
 
 ### [Letter Recognition: Multiclass Classification](https://github.com/BeatriceNN/Letter-Recognition-ML-Project)
